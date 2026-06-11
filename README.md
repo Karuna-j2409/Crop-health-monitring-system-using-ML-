@@ -1,4 +1,4 @@
-# Crop-health-monitring-system-using-ML-
+# Crop-health-monitoring-system-using-ML-
 Crop Health Monitoring using PlantVillage Dataset
 
 This project aims to classify plant leaves as Healthy or Unhealthy using traditional machine learning techniques. Instead of directly applying deep learning, meaningful image features were manually extracted and analyzed to understand their contribution to disease detection.
